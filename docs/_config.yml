@@ -8,6 +8,8 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+      name: "gendloop"
+      position: "Author"
   - scope:
       path: ""
       type: "posts"
